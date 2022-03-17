@@ -1,0 +1,15 @@
+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
+
+java "nome do programa" < "nome do arquivo" → entrada de arquivo
+
+java "nome do programa" > "nome do arquivo" → saida de arquivo
+
+
+foreach java 
+for(String s: args){}
+args vetor que posso usar para passar argumentos
+
+++contador → pré incremento acontece antes do contexto inserido
+contador++ → pós incremento acontece depois contexto inserido
+
+https://www.google.com/search?q=como+descobrir+a+vers%C3%A3o+do+windows+pelo+cmd&rlz=1C1ISCS_pt-PTBR985BR985&oq=como+descobrir+a+vers%C3%A3o+do+windows+&aqs=chrome.3.69i57j0i512l2j0i22i30l7.14201j0j7&sourceid=chrome&ie=UTF-8

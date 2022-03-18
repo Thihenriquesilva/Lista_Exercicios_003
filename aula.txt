@@ -1,4 +1,3 @@
-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
 
 java "nome do programa" < "nome do arquivo" → entrada de arquivo
 
